@@ -1,0 +1,22 @@
+clone code
+
+git clone link_git
+
+đẩy code lên git với 1 project tạo từ github
+
+git status: kiểm tra trạng thái file
+git add . : thêm file
+git conmmit -m "your message" : tạo nội dung commit
+git push origin main
+
+tạo project local và đẩy lên git
+
+1 tạo 1 github repository
+2 sử dụng <git init> ở git bash
+3 viết code
+	git status kiểm tra trạng thái
+	git add
+	git commit-m"your message"
+	git remote add origin link
+	git push origin master
+
